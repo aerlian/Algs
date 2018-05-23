@@ -1,4 +1,5 @@
 ﻿using CakeMergeCalendar;
+using CakeMergeCalendar.Rev;
 
 namespace CakeMergeCalendar2
 {
@@ -44,8 +45,16 @@ namespace CakeMergeCalendar2
             //PalindromePermuation.PalindromePermuationMain();
             //TODO Heap, HeapSort, HeapMin, HeapMax
             //SelectionSort
-            //PowersetRevision.PowersetMain();
-            Avl.AvlMain();
+            //Powersets.PowersetMain();
+            //Avl.AvlMain();
+            //MergeSort.MergeSortMain();
+            //Dijkstra.DijkstraMain();
+            //Quicksort.QuickSortMain();
+
+            //BinarySearch.BinarySearchMain();
+            //RemoveDups.RemoveDupsMain();
+
+            MostExpensiveRoute.MostExpensiveRouteMain();
         }
     }
 }
