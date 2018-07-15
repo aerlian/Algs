@@ -40,7 +40,7 @@ namespace Algorithms
                     sum.Insert(0, c);
                 }
 
-                allSums.Add(sum.ToList());
+                allSums.Add(sum);
                 tenMult += 1;
             }
 
